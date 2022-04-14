@@ -13,3 +13,5 @@ out/
 *.iml
 .idea/
 
+# Kotlin compiles
+build/
