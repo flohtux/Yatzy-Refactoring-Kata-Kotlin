@@ -1,6 +1,7 @@
 
 tasks:
   - init: ./gradlew build
+    command: ./gradlew test
 
 
 
