@@ -8,3 +8,5 @@ vscode:
   extensions:
     - fwcd.kotlin
     - mathiasfrohlich.Kotlin
+    - vscjava.vscode-java-pack
+    - vscjava.vscode-java-test
